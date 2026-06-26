@@ -11,4 +11,5 @@ dependencies = [
     "python-dotenv",
     "requests",
     "sqlitesearch>=0.1.1",
+    "toyaikit>=0.0.11",
 ]
